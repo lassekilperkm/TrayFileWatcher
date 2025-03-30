@@ -6,4 +6,4 @@ This project compiles into a system tray app which listens for file changes in a
 
 Notifications of the app only work when the notification settings in Windows are turned on.
 
-The library which watches for file changes is included into the build from the "include" directory of the project.
+The library which watches for file changes is included into the build from the "include" directory of the project, the code can be found [here](https://github.com/lassekilperkm/DirectoryListener).
